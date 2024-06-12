@@ -25,3 +25,5 @@ Consider modularity: Break down complex problems into smaller, reusable function
 7. Debugging:
 
 Develop debugging skills: Use a debugger to step through your code, identify errors, and fix them effectively. Learn to read error messages and stack traces.
+ 
+ Stack
