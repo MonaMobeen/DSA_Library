@@ -16,4 +16,4 @@ class Solution:
             elif res < 0:
                 r = m -1
             else:
-                return m        
+                return m        #Love this e.g.,...Binary Search
